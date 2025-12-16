@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Inheritance_&_Interface/1.0.0": {
+        "runtime": {
+          "Inheritance_&_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance_&_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

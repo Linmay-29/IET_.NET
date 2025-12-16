@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\bin\Debug\net8.0\Inheritance_&_Interface.exe
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\bin\Debug\net8.0\Inheritance_&_Interface.deps.json
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\bin\Debug\net8.0\Inheritance_&_Interface.runtimeconfig.json
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\bin\Debug\net8.0\Inheritance_&_Interface.dll
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\bin\Debug\net8.0\Inheritance_&_Interface.pdb
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.sourcelink.json
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.dll
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\refint\Inheritance_&_Interface.dll
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.pdb
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\Inheritance_&_Interface.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920035\IET_.NET\Day2\Inheritance_&_Interface\obj\Debug\net8.0\ref\Inheritance_&_Interface.dll
